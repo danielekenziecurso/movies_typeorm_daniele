@@ -1,0 +1,8 @@
+=>gerar migração:
+npm run typeorm migration:generate path/to/migration/MigrationName -- -d src/data-source
+
+=>Para executar todas:
+npm run typeorm migration:run -- -d src/data-source
+
+=>Para revertermos a última migração
+npm run typeorm migration:revert -- -d ./src/data-source
