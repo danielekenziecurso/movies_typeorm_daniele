@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Locadora de filmes com TypeORM
 
 # Introdução
@@ -328,3 +329,6 @@ Deve ser possível deletar um filme pelo id recebido nos parâmetros da rota.
 ```json
 
 ```
+=======
+# movies_typeorm_daniele
+>>>>>>> 48bb17e5387880d9e6aa9656a1ef7368e07e55b5
